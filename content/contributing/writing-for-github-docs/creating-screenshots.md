@@ -26,8 +26,7 @@ Use a screenshot to complement text instructions when an element of the user int
 * The element is not immediately visible. For example, the element is contained in a dropdown menu.
 * The interface has multiple competing choices that can cause confusion.
 
-Do not use screenshots for procedural steps where text alone is clear, or to show code commands or outputs.
-
+Do not use screenshots for procedural steps where text alone is 
 ## Examples of the criteria for inclusion
 
 To help you determine whether to add a specific screenshot, consider the following examples of screenshots that do and do not meet our criteria for inclusion.
